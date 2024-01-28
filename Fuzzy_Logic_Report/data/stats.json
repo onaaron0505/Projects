@@ -1,0 +1,186 @@
+{
+    "average_yards": {
+        "Elite": {
+            "Mean": 93.48864072009233,
+            "Standard_Deviation": 12.789351130087216
+        },
+        "Good": {
+            "Mean": 59.230946372206546,
+            "Standard_Deviation": 8.559532062641981
+        },
+        "Average": {
+            "Mean": 30.805274323956308,
+            "Standard_Deviation": 7.594860128765098
+        },
+        "Ok": {
+            "Mean": 16.439934250532076,
+            "Standard_Deviation": 1.760242164473522
+        },
+        "Poor": {
+            "Mean": 9.692003704278072,
+            "Standard_Deviation": 2.7043194162343878
+        }
+    },
+    "average_targets": {
+        "Elite": {
+            "Mean": 9.451059766059766,
+            "Standard_Deviation": 1.0547806468004162
+        },
+        "Good": {
+            "Mean": 6.702111621296114,
+            "Standard_Deviation": 0.7811064276030194
+        },
+        "Average": {
+            "Mean": 4.660893602388448,
+            "Standard_Deviation": 0.45293398864507
+        },
+        "Ok": {
+            "Mean": 3.2258953797283314,
+            "Standard_Deviation": 0.3915860897330123
+        },
+        "Poor": {
+            "Mean": 1.9664553483876628,
+            "Standard_Deviation": 0.3987860667551019
+        }
+    },
+    "average_yards_per_catch": {
+        "High": {
+            "Mean": 11.72736373703543,
+            "Standard_Deviation": 2.712713869244416
+        },
+        "Medium": {
+            "Mean": 6.441221686160669,
+            "Standard_Deviation": 1.0978116704686316
+        },
+        "Low": {
+            "Mean": 3.13349309420738,
+            "Standard_Deviation": 0.7292247900597383
+        }
+    },
+    "red_zone_targets": {
+        "Elite": {
+            "Mean": 1.5123385972316454,
+            "Standard_Deviation": 0.31039409366748116
+        },
+        "Average": {
+            "Mean": 0.7045611012109115,
+            "Standard_Deviation": 0.1794803696925344
+        },
+        "Poor": {
+            "Mean": 0.2397973265160765,
+            "Standard_Deviation": 0.14711258663397425
+        }
+    },
+    "defense_yards_per_catch": {
+        "WR": {
+            "High": {
+                "Mean": 13.495737908949515,
+                "Standard_Deviation": 0.5742656448940738
+            },
+            "Medium": {
+                "Mean": 11.749841040185574,
+                "Standard_Deviation": 0.4396523266526767
+            },
+            "Low": {
+                "Mean": 10.327402760512696,
+                "Standard_Deviation": 0.7347717491513369
+            }
+        },
+        "TE": {
+            "High": {
+                "Mean": 13.317173052772514,
+                "Standard_Deviation": 1.2611483889819795
+            },
+            "Medium": {
+                "Mean": 10.068885762097647,
+                "Standard_Deviation": 0.6712186204723596
+            },
+            "Low": {
+                "Mean": 7.796644447221476,
+                "Standard_Deviation": 0.8397861703138995
+            }
+        },
+        "RB": {
+            "High": {
+                "Mean": 9.49679145105736,
+                "Standard_Deviation": 0.8542100545239528
+            },
+            "Medium": {
+                "Mean": 7.140755151634921,
+                "Standard_Deviation": 0.5125743034747726
+            },
+            "Low": {
+                "Mean": 5.342073608462439,
+                "Standard_Deviation": 0.8404857984191337
+            }
+        }
+    },
+    "defensive_average_yards": {
+        "WR": {
+            "Elite": {
+                "Mean": 219.27376200546308,
+                "Standard_Deviation": 17.022403123046164
+            },
+            "Good": {
+                "Mean": 179.3653852726221,
+                "Standard_Deviation": 7.719874284839116
+            },
+            "Average": {
+                "Mean": 162.4615766068147,
+                "Standard_Deviation": 3.001598353233384
+            },
+            "Ok": {
+                "Mean": 147.14399643180892,
+                "Standard_Deviation": 6.619397399571722
+            },
+            "Poor": {
+                "Mean": 112.36123415191213,
+                "Standard_Deviation": 14.4809668741231
+            }
+        },
+        "TE": {
+            "Elite": {
+                "Mean": 85.43569588008364,
+                "Standard_Deviation": 13.353814216948681
+            },
+            "Good": {
+                "Mean": 57.939358799752064,
+                "Standard_Deviation": 5.768186615295008
+            },
+            "Average": {
+                "Mean": 47.864808695577935,
+                "Standard_Deviation": 1.3102113381821623
+            },
+            "Ok": {
+                "Mean": 42.25656597301335,
+                "Standard_Deviation": 2.018480901273598
+            },
+            "Poor": {
+                "Mean": 31.841755977940185,
+                "Standard_Deviation": 4.093756914072561
+            }
+        },
+        "RB": {
+            "Elite": {
+                "Mean": 52.41477170977173,
+                "Standard_Deviation": 4.463858427359979
+            },
+            "Good": {
+                "Mean": 42.803329480976544,
+                "Standard_Deviation": 2.244798856178928
+            },
+            "Average": {
+                "Mean": 36.861103934379805,
+                "Standard_Deviation": 1.5401671617643016
+            },
+            "Ok": {
+                "Mean": 29.151956476956478,
+                "Standard_Deviation": 2.6471623350428186
+            },
+            "Poor": {
+                "Mean": 18.038681873681874,
+                "Standard_Deviation": 4.575585086727476
+            }
+        }
+    }
+}
