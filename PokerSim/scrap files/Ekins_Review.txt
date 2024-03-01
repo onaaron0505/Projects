@@ -1,0 +1,16 @@
+Looks like a very fun project! Alright, so I'm thinking that you might utilize the command design pattern. 
+The command design pattern is very similar to the strategy design pattern. The main difference is the strategy 
+design pattern is used for swapping among algorithms in the context of one single class. On the other hand, 
+the command design pattern converts the operation or the action into an object, and the Operations parameters 
+or inputs become fields of the object. Therefore, you can consider the command design pattern as a combination 
+of the strategy and the factory design pattern. This is just a recommendation, but I would recommend you to have 
+a look into it. I also want to mention that I really like how you describe your features like an informal class 
+diagram without a diagram. It gives me a clearer view of how the project is going to look like. My one last 
+comment could be applying the state design pattern. You also have a fold state which I assume is the player 
+will be inactive when they fold. When the player folds, they shouldn't be able to play in the current game 
+anymore. On the other hand, the other players who haven't folded yet will remain active in the current game. 
+So, you would want to look into this design pattern as well. I'm sharing both design patterns command and 
+state below if you want to take a closer look at them. The links that I shared with you also contain code e
+xamples for other languages as well including C++. 
+https://refactoring.guru/design-patterns/command https://refactoring.guru/design-patterns/state
+- Ekincan Ufuktepe
